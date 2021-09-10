@@ -9,5 +9,5 @@ Usage:
 2. Drag and drop the file to terminal or type the file name(same folder)
 3. Press enter and wait for this tool to work...
 
-*** pip3 install requirements.txt
+*** pip3 install -r requirements.txt
 ```
