@@ -1,5 +1,5 @@
-# b64_Encoder.py
-This tool help you encrypt any file to base64
+# b64_Encoder_Decoder.py 
+This tool help you encrypt or decrypt any file to base64
 
 
 ```
